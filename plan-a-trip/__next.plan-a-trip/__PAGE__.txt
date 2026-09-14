@@ -1,0 +1,22 @@
+1:"$Sreact.fragment"
+2:I[81353,["/bigfoot-adventures-site/_next/static/chunks/0h2qsuyze9ds1.js","/bigfoot-adventures-site/_next/static/chunks/395vxf6xygcu5.js","/bigfoot-adventures-site/_next/static/chunks/1lrjdkg0fkt8q.js","/bigfoot-adventures-site/_next/static/chunks/029o4nyrhm7rx.js"],"PageHero"]
+3:I[25167,["/bigfoot-adventures-site/_next/static/chunks/0h2qsuyze9ds1.js","/bigfoot-adventures-site/_next/static/chunks/395vxf6xygcu5.js","/bigfoot-adventures-site/_next/static/chunks/1lrjdkg0fkt8q.js","/bigfoot-adventures-site/_next/static/chunks/029o4nyrhm7rx.js"],"TripPlannerForm"]
+4:I[97367,["/bigfoot-adventures-site/_next/static/chunks/0h2qsuyze9ds1.js","/bigfoot-adventures-site/_next/static/chunks/395vxf6xygcu5.js","/bigfoot-adventures-site/_next/static/chunks/1lrjdkg0fkt8q.js"],"OutletBoundary"]
+5:"$Sreact.suspense"
+9:I[97367,["/bigfoot-adventures-site/_next/static/chunks/0h2qsuyze9ds1.js","/bigfoot-adventures-site/_next/static/chunks/395vxf6xygcu5.js","/bigfoot-adventures-site/_next/static/chunks/1lrjdkg0fkt8q.js"],"ViewportBoundary"]
+a:I[97367,["/bigfoot-adventures-site/_next/static/chunks/0h2qsuyze9ds1.js","/bigfoot-adventures-site/_next/static/chunks/395vxf6xygcu5.js","/bigfoot-adventures-site/_next/static/chunks/1lrjdkg0fkt8q.js"],"MetadataBoundary"]
+b:I[27201,["/bigfoot-adventures-site/_next/static/chunks/0h2qsuyze9ds1.js","/bigfoot-adventures-site/_next/static/chunks/395vxf6xygcu5.js","/bigfoot-adventures-site/_next/static/chunks/1lrjdkg0fkt8q.js"],"IconMark"]
+d:I[39756,["/bigfoot-adventures-site/_next/static/chunks/0h2qsuyze9ds1.js","/bigfoot-adventures-site/_next/static/chunks/395vxf6xygcu5.js","/bigfoot-adventures-site/_next/static/chunks/1lrjdkg0fkt8q.js"],"default"]
+e:I[37457,["/bigfoot-adventures-site/_next/static/chunks/0h2qsuyze9ds1.js","/bigfoot-adventures-site/_next/static/chunks/395vxf6xygcu5.js","/bigfoot-adventures-site/_next/static/chunks/1lrjdkg0fkt8q.js"],"default"]
+8:X
+10:X
+10:C
+0:{"buildId":"YcqixGkl7lG7LN4o4yZi0","data":[{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{"eyebrow":"Planning a Trip","title":"We Own Every Mile We Drive.","lead":"No subcontractors. Our own fleet, our own guides, run from Nairobi since 2013."}],["$","section",null,{"className":"pb-24 bg-paper","children":["$","div",null,{"className":"mx-auto max-w-[680px] px-5 sm:px-8","children":["$","$L3",null,{}]}]}]],[["$","script","script-0",{"src":"/bigfoot-adventures-site/_next/static/chunks/029o4nyrhm7rx.js","async":true}]],["$","$L4",null,{"children":["$","$5",null,{"name":"Next.MetadataOutlet","children":"$@6"}]}]]}],"isPartial":"$@7","staleTime":"$8","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L9",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Plan a Trip | Kenya Safari, Booked Directly — Bigfoot Adventures"}],["$","meta","1",{"name":"description","content":"No subcontractors. Our own fleet, our own guides, run from Nairobi since 2013."}],["$","link","2",{"rel":"icon","href":"/bigfoot-adventures-site/icon.png?icon.2whiqtn6tejig.png","sizes":"256x256","type":"image/png"}],["$","$Lb","3",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":"$@c","staleTime":"$8","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Ld",null,{"parallelRouterKey":"children","template":["$","$Le",null,{}]}]]}],"isPartial":"$@f","staleTime":"$8","varyParams":"$10"}],"isUpgradeableISRFallback":false,"a":"$@11","rootVaryParams":null,"needsRuntimeRequest":"$@12"}
+6:null
+12:true
+8:300
+8:C
+11:0
+c:"$undefined"
+f:"$undefined"
+7:"$undefined"

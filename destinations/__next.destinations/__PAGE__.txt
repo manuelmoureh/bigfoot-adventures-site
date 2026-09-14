@@ -1,0 +1,23 @@
+1:"$Sreact.fragment"
+2:I[81353,["/bigfoot-adventures-site/_next/static/chunks/0h2qsuyze9ds1.js","/bigfoot-adventures-site/_next/static/chunks/395vxf6xygcu5.js","/bigfoot-adventures-site/_next/static/chunks/1lrjdkg0fkt8q.js","/bigfoot-adventures-site/_next/static/chunks/36d-scf65-uzq.js"],"PageHero"]
+3:I[57514,["/bigfoot-adventures-site/_next/static/chunks/0h2qsuyze9ds1.js","/bigfoot-adventures-site/_next/static/chunks/395vxf6xygcu5.js","/bigfoot-adventures-site/_next/static/chunks/1lrjdkg0fkt8q.js","/bigfoot-adventures-site/_next/static/chunks/36d-scf65-uzq.js"],"DestinationsGrid"]
+4:I[81353,["/bigfoot-adventures-site/_next/static/chunks/0h2qsuyze9ds1.js","/bigfoot-adventures-site/_next/static/chunks/395vxf6xygcu5.js","/bigfoot-adventures-site/_next/static/chunks/1lrjdkg0fkt8q.js","/bigfoot-adventures-site/_next/static/chunks/36d-scf65-uzq.js"],"ArrowBtn"]
+5:I[97367,["/bigfoot-adventures-site/_next/static/chunks/0h2qsuyze9ds1.js","/bigfoot-adventures-site/_next/static/chunks/395vxf6xygcu5.js","/bigfoot-adventures-site/_next/static/chunks/1lrjdkg0fkt8q.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+a:I[97367,["/bigfoot-adventures-site/_next/static/chunks/0h2qsuyze9ds1.js","/bigfoot-adventures-site/_next/static/chunks/395vxf6xygcu5.js","/bigfoot-adventures-site/_next/static/chunks/1lrjdkg0fkt8q.js"],"ViewportBoundary"]
+b:I[97367,["/bigfoot-adventures-site/_next/static/chunks/0h2qsuyze9ds1.js","/bigfoot-adventures-site/_next/static/chunks/395vxf6xygcu5.js","/bigfoot-adventures-site/_next/static/chunks/1lrjdkg0fkt8q.js"],"MetadataBoundary"]
+c:I[27201,["/bigfoot-adventures-site/_next/static/chunks/0h2qsuyze9ds1.js","/bigfoot-adventures-site/_next/static/chunks/395vxf6xygcu5.js","/bigfoot-adventures-site/_next/static/chunks/1lrjdkg0fkt8q.js"],"IconMark"]
+e:I[39756,["/bigfoot-adventures-site/_next/static/chunks/0h2qsuyze9ds1.js","/bigfoot-adventures-site/_next/static/chunks/395vxf6xygcu5.js","/bigfoot-adventures-site/_next/static/chunks/1lrjdkg0fkt8q.js"],"default"]
+f:I[37457,["/bigfoot-adventures-site/_next/static/chunks/0h2qsuyze9ds1.js","/bigfoot-adventures-site/_next/static/chunks/395vxf6xygcu5.js","/bigfoot-adventures-site/_next/static/chunks/1lrjdkg0fkt8q.js"],"default"]
+9:X
+11:X
+11:C
+0:{"buildId":"YcqixGkl7lG7LN4o4yZi0","data":[{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{"eyebrow":"Where We Operate","title":"Destinations","lead":"We don't over-specify a fixed circuit — tell us the itinerary and we'll tell you what's confirmed and what needs a quick check first."}],["$","$L3",null,{}],["$","section",null,{"className":"py-20 bg-stone-dim text-center","children":["$","div",null,{"className":"mx-auto max-w-[640px] px-5 sm:px-8 flex flex-col items-center gap-6","children":[["$","h2",null,{"className":"text-2xl sm:text-3xl font-black","children":"Building a multi-country itinerary?"}],["$","$L4",null,{"href":"/request-a-rate","children":"Request a Rate"}]]}]}]],[["$","script","script-0",{"src":"/bigfoot-adventures-site/_next/static/chunks/36d-scf65-uzq.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$La",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Destinations | East Africa Safari Ground Handling — Bigfoot Adventures"}],["$","meta","1",{"name":"description","content":"Kenya is our confirmed operating core — Maasai Mara, Amboseli, Nairobi National Park, the coast. Cross-border Tanzania, Uganda, and Rwanda extensions available on request."}],["$","link","2",{"rel":"icon","href":"/bigfoot-adventures-site/icon.png?icon.2whiqtn6tejig.png","sizes":"256x256","type":"image/png"}],["$","$Lc","3",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":"$@d","staleTime":"$9","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Le",null,{"parallelRouterKey":"children","template":["$","$Lf",null,{}]}]]}],"isPartial":"$@10","staleTime":"$9","varyParams":"$11"}],"isUpgradeableISRFallback":false,"a":"$@12","rootVaryParams":null,"needsRuntimeRequest":"$@13"}
+7:null
+13:true
+9:300
+9:C
+12:0
+d:"$undefined"
+10:"$undefined"
+8:"$undefined"
