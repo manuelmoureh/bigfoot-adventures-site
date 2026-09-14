@@ -1,0 +1,25 @@
+1:"$Sreact.fragment"
+2:I[81353,["/bigfoot-adventures-site/_next/static/chunks/0h2qsuyze9ds1.js","/bigfoot-adventures-site/_next/static/chunks/3e1f7oj56m0kq.js","/bigfoot-adventures-site/_next/static/chunks/1lrjdkg0fkt8q.js","/bigfoot-adventures-site/_next/static/chunks/2r4kt0mjyl5f4.js"],"PageHero"]
+3:I[57514,["/bigfoot-adventures-site/_next/static/chunks/0h2qsuyze9ds1.js","/bigfoot-adventures-site/_next/static/chunks/3e1f7oj56m0kq.js","/bigfoot-adventures-site/_next/static/chunks/1lrjdkg0fkt8q.js","/bigfoot-adventures-site/_next/static/chunks/2r4kt0mjyl5f4.js"],"ServicesGrid"]
+4:I[57525,["/bigfoot-adventures-site/_next/static/chunks/0h2qsuyze9ds1.js","/bigfoot-adventures-site/_next/static/chunks/3e1f7oj56m0kq.js","/bigfoot-adventures-site/_next/static/chunks/1lrjdkg0fkt8q.js","/bigfoot-adventures-site/_next/static/chunks/2r4kt0mjyl5f4.js"],"Fleet"]
+5:I[57514,["/bigfoot-adventures-site/_next/static/chunks/0h2qsuyze9ds1.js","/bigfoot-adventures-site/_next/static/chunks/3e1f7oj56m0kq.js","/bigfoot-adventures-site/_next/static/chunks/1lrjdkg0fkt8q.js","/bigfoot-adventures-site/_next/static/chunks/2r4kt0mjyl5f4.js"],"DestinationsGrid"]
+6:I[81353,["/bigfoot-adventures-site/_next/static/chunks/0h2qsuyze9ds1.js","/bigfoot-adventures-site/_next/static/chunks/3e1f7oj56m0kq.js","/bigfoot-adventures-site/_next/static/chunks/1lrjdkg0fkt8q.js","/bigfoot-adventures-site/_next/static/chunks/2r4kt0mjyl5f4.js"],"ArrowBtn"]
+7:I[97367,["/bigfoot-adventures-site/_next/static/chunks/0h2qsuyze9ds1.js","/bigfoot-adventures-site/_next/static/chunks/3e1f7oj56m0kq.js","/bigfoot-adventures-site/_next/static/chunks/1lrjdkg0fkt8q.js"],"OutletBoundary"]
+8:"$Sreact.suspense"
+c:I[97367,["/bigfoot-adventures-site/_next/static/chunks/0h2qsuyze9ds1.js","/bigfoot-adventures-site/_next/static/chunks/3e1f7oj56m0kq.js","/bigfoot-adventures-site/_next/static/chunks/1lrjdkg0fkt8q.js"],"ViewportBoundary"]
+d:I[97367,["/bigfoot-adventures-site/_next/static/chunks/0h2qsuyze9ds1.js","/bigfoot-adventures-site/_next/static/chunks/3e1f7oj56m0kq.js","/bigfoot-adventures-site/_next/static/chunks/1lrjdkg0fkt8q.js"],"MetadataBoundary"]
+e:I[27201,["/bigfoot-adventures-site/_next/static/chunks/0h2qsuyze9ds1.js","/bigfoot-adventures-site/_next/static/chunks/3e1f7oj56m0kq.js","/bigfoot-adventures-site/_next/static/chunks/1lrjdkg0fkt8q.js"],"IconMark"]
+10:I[39756,["/bigfoot-adventures-site/_next/static/chunks/0h2qsuyze9ds1.js","/bigfoot-adventures-site/_next/static/chunks/3e1f7oj56m0kq.js","/bigfoot-adventures-site/_next/static/chunks/1lrjdkg0fkt8q.js"],"default"]
+11:I[37457,["/bigfoot-adventures-site/_next/static/chunks/0h2qsuyze9ds1.js","/bigfoot-adventures-site/_next/static/chunks/3e1f7oj56m0kq.js","/bigfoot-adventures-site/_next/static/chunks/1lrjdkg0fkt8q.js"],"default"]
+b:X
+13:X
+13:C
+0:{"buildId":"JudzvbtNd5xgM7wdgcuba","data":[{"rsc":["$","$1","c",{"children":[[["$","$L2",null,{"eyebrow":"What We Run","title":"Ground Handling Services","lead":"No subcontracted vehicles, no freelance day-hire guides. If it's on this page, it's ours."}],["$","$L3",null,{}],["$","$L4",null,{}],["$","$L5",null,{}],["$","section",null,{"className":"py-20 bg-stone-dim text-center","children":["$","div",null,{"className":"mx-auto max-w-[640px] px-5 sm:px-8 flex flex-col items-center gap-6","children":[["$","h2",null,{"className":"text-2xl sm:text-3xl font-black","children":"Need a rate for one of these lines?"}],["$","$L6",null,{"href":"/request-a-rate","children":"Request a Rate"}]]}]}]],[["$","script","script-0",{"src":"/bigfoot-adventures-site/_next/static/chunks/2r4kt0mjyl5f4.js","async":true}]],["$","$L7",null,{"children":["$","$8",null,{"name":"Next.MetadataOutlet","children":"$@9"}]}]]}],"isPartial":"$@a","staleTime":"$b","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$Lc",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$Ld",null,{"children":["$","$8",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Ground Handling Services | Safari Ground Handling East Africa — Bigfoot Adventures"}],["$","meta","1",{"name":"description","content":"Airport transfers, safari circuits, conference and MICE transport, cruise-line ground handling in Mombasa, and cross-border East Africa extensions — all run in-house from Nairobi."}],["$","link","2",{"rel":"icon","href":"/bigfoot-adventures-site/icon.png?icon.2whiqtn6tejig.png","sizes":"256x256","type":"image/png"}],["$","$Le","3",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":"$@f","staleTime":"$b","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$L10",null,{"parallelRouterKey":"children","template":["$","$L11",null,{}]}]]}],"isPartial":"$@12","staleTime":"$b","varyParams":"$13"}],"isUpgradeableISRFallback":false,"a":"$@14","rootVaryParams":null,"needsRuntimeRequest":"$@15"}
+9:null
+15:true
+b:300
+b:C
+14:0
+f:"$undefined"
+12:"$undefined"
+a:"$undefined"
