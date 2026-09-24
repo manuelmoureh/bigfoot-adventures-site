@@ -1,0 +1,21 @@
+1:"$Sreact.fragment"
+2:I[22016,["/bigfoot-adventures-site/_next/static/chunks/1ny1iekj8rrit.js","/bigfoot-adventures-site/_next/static/chunks/0jp9zw4hch276.js","/bigfoot-adventures-site/_next/static/chunks/2txzqbp-mn0cn.js"],""]
+3:I[97367,["/bigfoot-adventures-site/_next/static/chunks/1ny1iekj8rrit.js","/bigfoot-adventures-site/_next/static/chunks/0jp9zw4hch276.js","/bigfoot-adventures-site/_next/static/chunks/2txzqbp-mn0cn.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[97367,["/bigfoot-adventures-site/_next/static/chunks/1ny1iekj8rrit.js","/bigfoot-adventures-site/_next/static/chunks/0jp9zw4hch276.js","/bigfoot-adventures-site/_next/static/chunks/2txzqbp-mn0cn.js"],"ViewportBoundary"]
+9:I[97367,["/bigfoot-adventures-site/_next/static/chunks/1ny1iekj8rrit.js","/bigfoot-adventures-site/_next/static/chunks/0jp9zw4hch276.js","/bigfoot-adventures-site/_next/static/chunks/2txzqbp-mn0cn.js"],"MetadataBoundary"]
+a:I[27201,["/bigfoot-adventures-site/_next/static/chunks/1ny1iekj8rrit.js","/bigfoot-adventures-site/_next/static/chunks/0jp9zw4hch276.js","/bigfoot-adventures-site/_next/static/chunks/2txzqbp-mn0cn.js"],"IconMark"]
+c:I[39756,["/bigfoot-adventures-site/_next/static/chunks/1ny1iekj8rrit.js","/bigfoot-adventures-site/_next/static/chunks/0jp9zw4hch276.js","/bigfoot-adventures-site/_next/static/chunks/2txzqbp-mn0cn.js"],"default"]
+d:I[37457,["/bigfoot-adventures-site/_next/static/chunks/1ny1iekj8rrit.js","/bigfoot-adventures-site/_next/static/chunks/0jp9zw4hch276.js","/bigfoot-adventures-site/_next/static/chunks/2txzqbp-mn0cn.js"],"default"]
+7:X
+f:X
+f:C
+0:{"buildId":"XqGpKUWrY9ZLcLrmpfWab","data":[{"rsc":["$","$1","c",{"children":[["$","div",null,{"className":"pt-40 pb-24","children":["$","div",null,{"className":"mx-auto max-w-[640px] px-5 sm:px-8 text-center","children":[["$","p",null,{"className":"inline-block rounded-full bg-stone-dim px-4 py-1.5 text-xs font-bold text-stone mb-6","children":"[DRAFT — 翻訳レビュー待ち / pending professional translation review]"}],["$","h1",null,{"className":"text-2xl sm:text-3xl font-black mb-4","children":"Bigfoot Adventures Ltd"}],["$","p",null,{"className":"text-stone leading-relaxed mb-8","children":"私たちは2013年設立、ナイロビを拠点とする地上手配業者（DMC）です。自社所有の車両、常勤の多言語ガイドを擁し、 下請けは一切利用しません。レート表のご請求はお問い合わせください。"}],["$","$L2",null,{"href":"/request-a-rate","className":"inline-flex items-center rounded-full bg-red text-paper font-bold text-sm px-6 py-3 hover:bg-red-deep transition-colors","children":"Request a Rate"}],["$","p",null,{"className":"text-sm text-stone mt-6","children":["Full English site: ",["$","$L2",null,{"href":"/for-travel-agents","className":"text-red font-semibold","children":"/for-travel-agents"}]]}]]}]}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Bigfoot Adventures | ケニアの地上手配業者"}],["$","meta","1",{"name":"description","content":"ナイロビを拠点とする地上手配業者（DMC）。自社車両・多言語ガイド常駐、下請けなし。"}],["$","link","2",{"rel":"icon","href":"/bigfoot-adventures-site/icon.png?icon.2whiqtn6tejig.png","sizes":"256x256","type":"image/png"}],["$","$La","3",{}]]}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"isPartial":"$@b","staleTime":"$7","varyParams":null},{"rsc":["$","$1","c",{"children":[null,["$","$Lc",null,{"parallelRouterKey":"children","template":["$","$Ld",null,{}]}]]}],"isPartial":"$@e","staleTime":"$7","varyParams":"$f"}],"isUpgradeableISRFallback":false,"a":"$@10","rootVaryParams":null,"needsRuntimeRequest":"$@11"}
+5:null
+11:true
+7:300
+7:C
+10:0
+b:"$undefined"
+e:"$undefined"
+6:"$undefined"
